@@ -1,4 +1,4 @@
-# 🏗 Scaffold-ETH 2
+# 🛖 Dukkan-ETH 2
 
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">Documentation</a> |
@@ -15,7 +15,8 @@
 - 🔥 **Burner Wallet & Local Faucet**: Quickly test your application with a burner wallet and local faucet.
 - 🔐 **Integration with Wallet Providers**: Connect to different wallet providers and interact with the Ethereum network.
 
-![Debug Contracts tab](https://github.com/scaffold-eth/scaffold-eth-2/assets/55535804/b237af0c-5027-4849-a5c1-2e31495cccb1)
+![Dukkan-ETH 2](https://github.com/Bild96/Dukkan/assets/52472445/61e91b42-786d-47c2-b5b4-6d069e29414f)
+
 
 ## Requirements
 
